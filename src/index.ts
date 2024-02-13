@@ -82,3 +82,5 @@ const textEventHandler = async (
     }),
   });
 };
+
+export default app;
